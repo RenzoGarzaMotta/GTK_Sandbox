@@ -10,15 +10,15 @@ I'm stepping through the **[Getting Started with GTK](https://docs.gtk.org/gtk4/
 
 This series of tutorials are broken down in the following order.
 
-1. Basics 🚧
-2. Hello World
-3. Packing
+1. Basics ✅
+2. Hello World ✅
+3. Packing 🚧
     - Packing buttons
-4. Custom Drawing
+4. Custom Drawing 📝
     - Drawing in response to input
-5. Building user Interfaces
+5. Building user Interfaces 📝
     - Packing buttons with GTKBuilder
-6. Building Applications
+6. Building Applications 📝
     - A trivial application
     - Populating the window
     - Opening files
