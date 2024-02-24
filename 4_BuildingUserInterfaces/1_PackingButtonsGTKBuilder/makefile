@@ -1,2 +1,2 @@
-example_out: example-1.c
-	gcc -o example_out example-1.c $$(pkg-config --cflags --libs gtk4)
+example_out: example-4.c
+	gcc -o example_out example-4.c $$(pkg-config --cflags --libs gtk4)
