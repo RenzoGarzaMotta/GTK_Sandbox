@@ -2,8 +2,8 @@
 #include <gtk/gtk.h>
 
 //Looks the same as 3_Packing > 1_PackingButtons > example-2.c
-//Hoever, the customization of the buttons came from a builder.ui
-//instead of having use the .
+//However, the customization of the buttons came from a builder.ui
+//instead of having used the gtk functions.
 
 static void print_hello(GtkWidget* widget, gpointer data) {
     g_print("Hello World\n");
